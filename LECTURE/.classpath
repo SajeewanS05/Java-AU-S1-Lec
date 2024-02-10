@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="WEEK 4/ASSIGNMENT"/>
-	<classpathentry kind="src" path="WEEK 5"/>
+	<classpathentry kind="src" path="WEEK 4/LecASSIGNMENT"/>
+	<classpathentry kind="src" path="WEEK 5 Lec"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
